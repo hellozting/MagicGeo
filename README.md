@@ -7,18 +7,18 @@ designed for generating geometric diagrams from textual descriptions. Creating p
 diagram generation as a coordinate optimization problem, integrating large language models for text translation and a formal language solver to ensure geometric correctness. 
 MagicGeo’s coordinate-aware generation effectively handles spatial relationships in text-to-diagram tasks, enabling accurate and efficient geometric diagram synthesis.
 <p align="center">
-  <img src="3.png" alt="Framework of MagicGeo">
+  <img src="image/3.png" alt="Framework of MagicGeo">
 </p>
 <p align="center"><b>Figure 1.</b> Framework of MagicGeo</p>
 
 ## Performance
 <p align="center">
-  <img src="0.png" alt="example" style="max-width:100%;">
+  <img src="image/0.png" alt="example" style="max-width:100%;">
 </p>
 <p align="center"><b>Figure 2.</b> example</p>
 
-![Framework of MagiceGeo](1.png)
-![Framework of MagiceGeo](2.png)
+![Framework of MagiceGeo](image/1.png)
+![Framework of MagiceGeo](image/2.png)
 ## Table of Contents
 
 - [Install](#install)

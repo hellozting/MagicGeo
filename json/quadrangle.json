@@ -1,0 +1,402 @@
+[
+    {
+        "id": 0,
+        "type": "四边形",
+        "subject": "在正方形ABCD中,点E在BC上,点F在AE上，点G在AE上，BF⊥AE,DG⊥AE，BC=0.5,DG=0.4"
+    },
+    {
+        "id": 1,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，AC与BD相交于点O，连接AC,BD。"
+    },
+    {
+        "id": 2,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，O是AC中点，F在BC上，E在AD上，O在EF上，AD=BC"
+    },
+    {
+        "id": 3,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，∠AFC=∠BED，AD=BC，点E在线段BC上，点F在线段AD上"
+    },
+    {
+        "id": 4,
+        "type": "四边形",
+        "subject": "在四边形ABCD中，BC//AD，AB//CD。"
+    },
+    {
+        "id": 5,
+        "type": "四边形",
+        "subject": "在平行四边形ABCD中， AB //CD，∠BAD=∠BCD。"
+    },
+    {
+        "id": 6,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点P在BC上，AP是∠BAD的角平分线，E是AP中点，AD=BC，连接DP，AC，BD。"
+    },
+    {
+        "id": 7,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，对角线AC与BD相交于点O，OA=OC"
+    },
+    {
+        "id": 8,
+        "type": "四边形",
+        "subject": "在平行四边形ABCD中，E在BC上，BC=1，AB=0.6，AE是∠BAD的角平分线"
+    },
+    {
+        "id": 9,
+        "type": "四边形",
+        "subject": "在平行四边形ABCD中，点E在BC上，O为AC的中点，点F在AD上，O点在EF上，AD=BC。"
+    },
+    {
+        "id": 10,
+        "type": "四边形",
+        "subject": "在平行四边形ABCD中，E在对角线BD上，BD=CD，AE⊥BD，∠BCD=70°，AD=BC。"
+    },
+    {
+        "id": 11,
+        "type": "四边形",
+        "subject": "在平行四边形ABCD中，点F在BC上，点E在AD上，DE=BF。"
+    },
+    {
+        "id": 12,
+        "type": "四边形",
+        "subject": "在平行四边形ABCD中，E在BC上，AE平分∠BAD。F在AD上，CF平分∠BCD，AD=BC。"
+    },
+    {
+        "id": 13,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点E在BD上，点F在BD上，BE=EF，BE=FD，AD=BC，连接AE，EC，CF，FA。"
+    },
+    {
+        "id": 14,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点E在对角线AC上，点F在对角线AC上，∠CBE=∠ADF，AD=BC。"
+    },
+    {
+        "id": 15,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点E在AC上，点F在AC上,BE⊥AC，DF⊥AC，AD=BC，连接AC，BD,BE，DF。"
+    },
+    {
+        "id": 16,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，E在BC上，F在AB延长线上，DE平分∠ADC，AD=BC。"
+    },
+    {
+        "id": 17,
+        "type": "四边形",
+        "subject": "菱形ABCD，AC=1，∠ADC=60°"
+    },
+    {
+        "id": 18,
+        "type": "四边形",
+        "subject": "正方形ABCD，点F在BC上，边点E在DC上，且BF=CE，AE平分∠CAD。G在AE上，G在DF上，M在AC上，M在DF上。点P在AG上，N在AC上，PN⊥AC，连接PM，连接DF。"
+    },
+    {
+        "id": 19,
+        "type": "四边形",
+        "subject": "正方形ABCD中，对角线AC、BD 相交于点O,O为AC中点。E在AC上，F在DB上，EF//BC，∠FAC=15°，连接AF,DE。"
+    },
+    {
+        "id": 20,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，F在BC上，E在AD上，EF是BD的垂直平分线，O是BD中点，AD=BC。"
+    },
+    {
+        "id": 21,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点F在边BC上，点E在对角线BD上，DE=BF，BE=BC，AD=BC，连接BD,AE，EF。"
+    },
+    {
+        "id": 22,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，M在AC上，N在AC上，BM//DN，AD=BC，连接AC，BM,MD，BN,ND。"
+    },
+    {
+        "id": 23,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，E在AC上，F在AC上，BE⊥AC，DF⊥AC."
+    },
+    {
+        "id": 24,
+        "type": "四边形",
+        "subject": "菱形BECF中，D在BC上，D在EF上，A是ED中点，AB=AC。"
+    },
+    {
+        "id": 25,
+        "type": "四边形",
+        "subject": "在平行四边形ABCD中，F在BC延长线上，E为线段CD的中点,E在AF上，∠ACB=90°，AD=BC,连接DF,CF。"
+    },
+    {
+        "id": 26,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，点E是AD的中点。"
+    },
+    {
+        "id": 27,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中,∠ABC=60°,AD=BC，连接AC，BD。没有其他点存在"
+    },
+    {
+        "id": 28,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中,点E是对角线AC上一点,BE=DE，连接BE，DE。"
+    },
+    {
+        "id": 29,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中,∠DAB=60°,∠EBC=90°,∠FDA=90°,AD=BC，E在AC上，F在AC上"
+    },
+    {
+        "id": 30,
+        "type": "四边形",
+        "subject": "在正方形ABCD中，点E在CD上，F为BE的中点，DE=1.5CE。"
+    },
+    {
+        "id": 31,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，点E在边BC上，点F是AE的中点,AB=0.8，AD=DE=1"
+    },
+    {
+        "id": 32,
+        "type": "四边形",
+        "subject": "菱形ABCD中，∠CAB=20°，∠BDC=70°，连接AC，BD"
+    },
+    {
+        "id": 33,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，AB=1,∠DAB=60°。"
+    },
+    {
+        "id": 34,
+        "type": "四边形",
+        "subject": "矩形BCDE，A在矩形外。∠BAC=120°，连接AB,AC，AE,AD。"
+    },
+    {
+        "id": 35,
+        "type": "四边形",
+        "subject": "正方形ABCD中,M是BD上的一点,P在CD上，PM=PC。"
+    },
+    {
+        "id": 36,
+        "type": "四边形",
+        "subject": "菱形ABCD中，O在AC上，O在BD上，AC=0.6，BD=0.8，E是边BC的中点。"
+    },
+    {
+        "id": 37,
+        "type": "四边形",
+        "subject": "矩形ABCD中，H是BC的中点，F是AD的中点，G是AB的中点，E是DC的中点,BC=1,AB=0.5，连接GF，EF，HG，HE"
+    },
+    {
+        "id": 38,
+        "type": "四边形",
+        "subject": "矩形ABCD中，F点在BC上，O是BD中点,O点在EF上，E点AD上，EF⊥BD"
+    },
+    {
+        "id": 39,
+        "type": "四边形",
+        "subject": "矩形ABCD中，O在AC上，O在BD上，E为矩形外一点，DE//AC,CE//BD。"
+    },
+    {
+        "id": 40,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，O在AC上，O在BD上，AD=BC，0A=0.3，BD=0.8，AB=0.5"
+    },
+    {
+        "id": 41,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，AD=BC，E在BC上、F在AD上，AE、CF分别是∠BAD、∠BCD的平分线，AE=AF。"
+    },
+    {
+        "id": 42,
+        "type": "四边形",
+        "subject": "平行四边形ABCD，AD=BC,E在BC上，F在BC的延长线上，BC⊥AE，BC⊥DF"
+    },
+    {
+        "id": 43,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，E在BC上，F在DC上，AE⊥BC，AF⊥CD，连接EF"
+    },
+    {
+        "id": 44,
+        "type": "四边形",
+        "subject": "矩形ABCD中，点E在BC上，AE=AD"
+    },
+    {
+        "id": 45,
+        "type": "四边形",
+        "subject": "平行四边形ABCD，AD=BC,E在BC上，F在AD上，EF是AC的垂直平分线,O是AC中点，O在EF上"
+    },
+    {
+        "id": 46,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，AD=BC,O在AC上，O在BD上，P是四边形外一点，BP=0.5AC,CP=0.5BD,连接BP,CP。"
+    },
+    {
+        "id": 47,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点M在边BC上，AM=DM。"
+    },
+    {
+        "id": 48,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，BD为对角线，AD//BC，∠BAD=∠BCD。"
+    },
+    {
+        "id": 49,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，E在BD上，E在AC上，∠DBC=60°，BD=1，点F为BC中点，连接EF,AC，BD。"
+    },
+    {
+        "id": 50,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点F在BC上，点E在AD上，O是BD中点，AD=BC，EF过点O，连接BD，EF。"
+    },
+    {
+        "id": 51,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点E在BC上，AE⊥BC，O是AC和BD交点，AD=BC，连接BD，AC，AE。"
+    },
+    {
+        "id": 52,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点E在BC上，点F在AD上，BE=DF，AD=BC，连接CF，AE。"
+    },
+    {
+        "id": 53,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，AC=1,BD=0.5。"
+    },
+    {
+        "id": 54,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，∠BAD=44°。"
+    },
+    {
+        "id": 55,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，O是AC和BD交点."
+    },
+    {
+        "id": 56,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，BD=1，AC=0.75，E在BC上，AE⊥BC。"
+    },
+    {
+        "id": 57,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，O是AC和BD交点，∠ABD=60°."
+    },
+    {
+        "id": 58,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，F在BC上，E在CD上，AF=AD，DE=EF，连接AE，AF.(注意F在BC上，E在CD上)"
+    },
+    {
+        "id": 59,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，E在BC上，F在BC上，BE=CF，连接AF，DE."
+    },
+    {
+        "id": 60,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，O是AB中点，连接DO，CO."
+    },
+    {
+        "id": 61,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，点E在BC上，点F在AD上，O是BD中点，点O在EF上，EF⊥BD，连接BD，EF。"
+    },
+    {
+        "id": 62,
+        "type": "四边形",
+        "subject": "在正方形ABCD中，点E在BC上，F在CD上，BE=0.3，EC=0.6，CF=0.2，连接AE，EF。"
+    },
+    {
+        "id": 63,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点E在BC上，E是BC中点，AC，BD交于点O，AD=BC，连接AC，BD，OE。"
+    },
+    {
+        "id": 64,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点E在AC上，点F在AC上，AE=CF，AD=BC，连接AC，BE，DF。(注意点E在AC上，点F在AC上)"
+    },
+    {
+        "id": 65,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，E是AD中点，∠BEC=60°，BE=BC，连接BE，EC."
+    },
+    {
+        "id": 66,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，∠BAD=40°。"
+    },
+    {
+        "id": 67,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，AC=1.2，BD=0.4。"
+    },
+    {
+        "id": 68,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，∠BAD=60°，E是AB中点，AC，BD交于点O，连接AC，BD，OE。"
+    },
+    {
+        "id": 69,
+        "type": "四边形",
+        "subject": "正方形ABCD中，对角线AC、BD 相交于点O，连接AC,BD。"
+    },
+    {
+        "id": 70,
+        "type": "四边形",
+        "subject": "正方形ABCD中，M在BC上，N在CD上，∠MAN=45°，AM=AN，连接AM，AN。"
+    },
+    {
+        "id": 71,
+        "type": "四边形",
+        "subject": "在菱形BCDA中，E在AB上，F在BC上，BE=BF，连接DE，DF，EF。"
+    },
+    {
+        "id": 72,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，E在BC上，E是BC中点，连接AE，DE."
+    },
+    {
+        "id": 73,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，E在BC上，F在CD上，CE=CF，连接AE，AF。"
+    },
+    {
+        "id": 74,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，E在AB上，F在BC上，EF//AC，连接EF，AC。"
+    },
+    {
+        "id": 75,
+        "type": "四边形",
+        "subject": "在正方形ABCD中，AC，BD交于O点，连接AC，BD。"
+    },
+    {
+        "id": 76,
+        "type": "四边形",
+        "subject": "在菱形ABCD中，AC=1，BD=0.5,P是BC中点，AC，BD交于点O，连接AC，BD，OP。"
+    },
+    {
+        "id": 77,
+        "type": "四边形",
+        "subject": "在矩形ABCD中，P是BD中点，Q是CD中点，连接BD，PQ."
+    },
+    {
+        "id": 78,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点E在BD上，点F在BD上，BE=DF，AD=BC，连接BD，AE，CF。"
+    },
+    {
+        "id": 79,
+        "type": "四边形",
+        "subject": "平行四边形ABCD中，点F在BC上，点E在AD上，AF//CE，AD=BC，连接AD，CE。"
+    }
+]

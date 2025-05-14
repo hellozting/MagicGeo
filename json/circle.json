@@ -1,0 +1,377 @@
+[
+    {
+        "id": 0,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，AB平分弦CD,CD中点是M.∠CDB=35°,∠ACD=55°"
+    },
+    {
+        "id": 1,
+        "type": "圆",
+        "subject": "AB是⊙O的直径,点C,D在⊙O上,OD平分∠AOC."
+    },
+    {
+        "id": 2,
+        "type": "圆",
+        "subject": "OA是⊙O的半径，BC是⊙O的弦，OA⊥BC于点 D，AE与⊙O相切于点A，AE交OC的延长线于点E.∠AOC=45°，BC=0.2，AE=0.14，圆的半径为0.14"
+    },
+    {
+        "id": 3,
+        "type": "圆",
+        "subject": "圆内接四边形ABCD的对角线AC，BD交于点E，BD平分∠ABC，∠BAC=∠ADB"
+    },
+    {
+        "id": 4,
+        "type": "圆",
+        "subject": "三角形ABC内接于⊙O，CD是⊙O的直径，连接BD，∠DCA=41°，∠ABC=49°"
+    },
+    {
+        "id": 5,
+        "type": "圆",
+        "subject": "已知点A、B、C在⊙O上，C为弧AB的中点.∠BAC=35°，∠AOB=140°"
+    },
+    {
+        "id": 6,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，C是⊙O上一点,∠BOC=66°，∠CAB=33°"
+    },
+    {
+        "id": 7,
+        "type": "圆",
+        "subject": "在⊙O中，A,B,C是⊙O上的点，∠ACB=30°,连接OA，OB，AC，BC"
+    },
+    {
+        "id": 8,
+        "type": "圆",
+        "subject": "在⊙O中，弦AB,CD相交于点P，若∠CAB=48°，∠APD=80°，∠ABD=32°"
+    },
+    {
+        "id": 9,
+        "type": "圆",
+        "subject": "四边形 ABCD内接于⊙O,AC,BD为对角线，BD经过圆心O.∠BAC=40°，∠DBC=50°"
+    },
+    {
+        "id": 10,
+        "type": "圆",
+        "subject": "OA,OB,OC都是⊙O的半径，圆的半径为1。AC，OB交于点D。D为AC中点，AD=0.8，OD=0.6，BD=0.4。"
+    },
+    {
+        "id": 11,
+        "type": "圆",
+        "subject": "在⊙O中,半径OA,OB互相垂直,点C在劣弧 AB 上.∠ABC=19°,∠BAC=26°"
+    },
+    {
+        "id": 12,
+        "type": "圆",
+        "subject": "在⊙O中，直径AB与弦CD相交于点P，连接AC，AD，BD.∠ACD=20°，∠BPC=70°，∠ADC=40°"
+    },
+    {
+        "id": 13,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，点C，D在⊙O上，连接CD，OD，AC，∠BOD=124°，∠ACD=28°"
+    },
+    {
+        "id": 14,
+        "type": "圆",
+        "subject": "如图，AB是⊙O的直径，C，D是⊙O上的点，∠BAC=50°，∠CDA=40°"
+    },
+    {
+        "id": 15,
+        "type": "圆",
+        "subject": "点A，B，C在⊙O上，若∠BCA=55°，∠AOB=110°"
+    },
+    {
+        "id": 16,
+        "type": "圆",
+        "subject": "三角形ABC内接于⊙O，AB是⊙O的直径，点D是⊙O上一点,∠CDB=55°，∠ABC=35°"
+    },
+    {
+        "id": 17,
+        "type": "圆",
+        "subject": "四边形 ABCD内接于⊙O,∠ADC =100°,∠ABC=80°"
+    },
+    {
+        "id": 18,
+        "type": "圆",
+        "subject": "点A，B，C,D在⊙O上，OA⊥BC，∠AOB=60°，∠ADC=30°"
+    },
+    {
+        "id": 19,
+        "type": "圆",
+        "subject": "AC,BC为⊙O的两条弦，D,G分别为AC,BC 的中点，∠ACB=45°"
+    },
+    {
+        "id": 20,
+        "type": "圆",
+        "subject": "A,B,C是⊙O上的三点,∠AOC=90°，∠ACB=25°,∠BOC=40°"
+    },
+    {
+        "id": 21,
+        "type": "圆",
+        "subject": "点A，B，C是⊙O上的点，∠ABC=40°"
+    },
+    {
+        "id": 22,
+        "type": "圆",
+        "subject": "⊙O是∠ABC的外接圆,连接 OB,OC,OA,∠CAO=40°∠ACB=70°"
+    },
+    {
+        "id": 23,
+        "type": "圆",
+        "subject": "AB是⊙O的直径,D,C是⊙O上的点，∠ADC=115°,∠BAC=25°"
+    },
+    {
+        "id": 24,
+        "type": "圆",
+        "subject": "AD是⊙O的直径，弦BC交AD于点E，连接AB，AC，∠BAD=30°，∠ACB=60°"
+    },
+    {
+        "id": 25,
+        "type": "圆",
+        "subject": "AD是⊙O的直径，三角形ABC是⊙O的内接三角形.∠DAC=∠ABC"
+    },
+    {
+        "id": 26,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，点C，D在⊙O上.∠DAB=66°,∠ACD=24°"
+    },
+    {
+        "id": 27,
+        "type": "圆",
+        "subject": "点A、B、C、D在⊙O上，圆的半径为1，A的坐标为（1，0），∠ACB=60°，E为AB中点，OD垂直于AB，E在OD上，连接OA。"
+    },
+    {
+        "id": 28,
+        "type": "圆",
+        "subject": "AB是⊙O的直径,C为圆上一点，∠BAC的角平分线AD与⊙O交于点D，∠ADC=20°。"
+    },
+    {
+        "id": 29,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，点C，E在⊙O上，EC的延长线与AB的延长线相交于点D，且CD=OA，AE//OC"
+    },
+    {
+        "id": 30,
+        "type": "圆",
+        "subject": "AB与⊙O相切于点B，连接OA交⊙O于点C，BD//OA交⊙O于点D，连接CD，∠OCD=25°，∠OAB=40°"
+    },
+    {
+        "id": 31,
+        "type": "圆",
+        "subject": "AB是⊙O的直径,CD与⊙O相切于点C，连接AC,∠ACD=50°,∠BAC=40°"
+    },
+    {
+        "id": 32,
+        "type": "圆",
+        "subject": "点A是⊙O外一点，AB与⊙O相切于点B，AC与⊙O相切于点C，点D在弧BDC上，∠CAB=50°，∠CDB=65°"
+    },
+    {
+        "id": 33,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，PA与⊙O相切于点A，PO交⊙O于点C，连接BC,∠ABC=28°，∠APO=34° "
+    },
+    {
+        "id": 34,
+        "type": "圆",
+        "subject": "AD是⊙O的直径，AB是⊙O的弦，BC与⊙O相切于点B，连接OB,∠ABC=65°，∠BOD=50°"
+    },
+    {
+        "id": 35,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，点C,E在⊙O上，∠CAB=2∠EAB，点F在线段AB的延长线上，且∠AFE=∠ABC"
+    },
+    {
+        "id": 36,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，点C是圆上一点.在AB 的延长线上取点D，连接CD，∠BCD=∠CAO"
+    },
+    {
+        "id": 37,
+        "type": "圆",
+        "subject": "⊙O是三角形ABC的外接圆，BD是⊙O的直径，AB=AC,AE//BC,E为BD的延长线与AE的交点,AE与⊙O相切于点A。"
+    },
+    {
+        "id": 38,
+        "type": "圆",
+        "subject": "等腰三角形OAB的顶角∠AOB=120°，AB与⊙O相切于点C，A，B不在⊙O上，两腰OA，OB分别相交于D，E两点，连接CD，CE,D,E在⊙O上."
+    },
+    {
+        "id": 39,
+        "type": "圆",
+        "subject": "AB与⊙O相切于点A，OC为半径，且OC//AB，BC与⊙O相交于点D,连接AD,∠OCA=∠ADC"
+    },
+    {
+        "id": 40,
+        "type": "圆",
+        "subject": "AB为⊙O的直径,点C为⊙O上一点，AD为∠CAB的平分线交⊙O于点D，连接OD交BC于点E,∠BED=90°"
+    },
+    {
+        "id": 41,
+        "type": "圆",
+        "subject": "OA,OB,OC 都是⊙O的半径，∠ACB=2∠BAC,∠AOB=2∠BOC"
+    },
+    {
+        "id": 42,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，点P是⊙O外一点，PA与⊙O相切于点A，点C为⊙O上的一点.连接PC、AC、OC，PC=PA,PC与⊙O相切于点C。"
+    },
+    {
+        "id": 43,
+        "type": "圆",
+        "subject": "四边形 ABCD内接于⊙O，对角线BD是⊙O的直径,连接OA,CA，OA⊥BD，CA平分∠BCD"
+    },
+    {
+        "id": 44,
+        "type": "圆",
+        "subject": "点A、B、C是⊙O上不同的三点，点O在三角形ABC的内部，连接BO、CO，D在BO的延长线上，并是与AC的交点.∠BAC=60°，∠OCD=40°，∠ODC=80°"
+    },
+    {
+        "id": 45,
+        "type": "圆",
+        "subject": "如图，AB是⊙O的直径，半径为0.65，点D是弦AC的中点，M是弧AC的中点,AC=1.2,BC=0.5，MD=0.4"
+    },
+    {
+        "id": 46,
+        "type": "圆",
+        "subject": "圆内接四边形ABCD中，∠BCD=105°,连接OB，OC，OD,BD，∠BOC=2∠COD，∠CBD=25°"
+    },
+    {
+        "id": 47,
+        "type": "圆",
+        "subject": "OA,OB，OC都是⊙O的半径，AC，OB 交于点D.AD=CD=0.8，OD=0.6，BD=0.4"
+    },
+    {
+        "id": 48,
+        "type": "圆",
+        "subject": "四边形ABCD内接于⊙O，圆的半径为1，BC//AD，AC垂直BD.∠AOD=120°AD=1.73，∠CAO=15°，BC=1"
+    },
+    {
+        "id": 49,
+        "type": "圆",
+        "subject": "正五边形ABCDE内接于⊙O，连接OC,OD，"
+    },
+    {
+        "id": 50,
+        "type": "圆",
+        "subject": "⊙O中，AB，AC为⊙O的两条弦，连接OB，OC，∠BAC=45°，∠BOC=90°"
+    },
+    {
+        "id": 51,
+        "type": "圆",
+        "subject": "AB是⊙O的直径,点E,D在⊙O上,∠AED=35°，∠BOD=110°"
+    },
+    {
+        "id": 52,
+        "type": "圆",
+        "subject": "AB是⊙O的直径,点C,D在⊙O上,∠CDB=60°，∠ABC=30°"
+    },
+    {
+        "id": 53,
+        "type": "圆",
+        "subject": "CD是⊙O的直径,点A,B在⊙O上,∠AOC=36°，∠CDB=18°，CA=CB。"
+    },
+    {
+        "id": 54,
+        "type": "圆",
+        "subject": "AB是⊙O的直径,点C,D在⊙O上,∠BOC=30°，∠ADC=75°"
+    },
+    {
+        "id": 55,
+        "type": "圆",
+        "subject": "AD是⊙O的直径,点C,B在⊙O上,∠ABC=25°，∠CAD=65°"
+    },
+    {
+        "id": 56,
+        "type": "圆",
+        "subject": "AB是⊙O的直径,AC与⊙O相切于点A，连接BC，∠ACB=50°，∠ABC=40°"
+    },
+    {
+        "id": 57,
+        "type": "圆",
+        "subject": "⊙O中,AB与⊙O相切于点C，连接BC，OA=OB，CA=CB，∠OAB=30°"
+    },
+    {
+        "id": 58,
+        "type": "圆",
+        "subject": "⊙O中,点A,B在⊙O上,∠AOB=150°"
+    },
+    {
+        "id": 59,
+        "type": "圆",
+        "subject": "⊙O中,点A，B，E在⊙O上,∠AOB=90°,点C是AO的中点，点D在OB上，CE⊥AO，ED⊥OB。"
+    },
+    {
+        "id": 60,
+        "type": "圆",
+        "subject": "⊙O中,点A，B，C在⊙O上,∠ACB=30°"
+    },
+    {
+        "id": 61,
+        "type": "圆",
+        "subject": "⊙O中,点A，B，C在⊙O上,AC交OB于点D，AC⊥OB，∠BAC=30°，∠ACO=20°"
+    },
+    {
+        "id": 62,
+        "type": "圆",
+        "subject": "⊙O中,点A，B在⊙O上,E为AB中点，EO=EA。"
+    },
+    {
+        "id": 63,
+        "type": "圆",
+        "subject": "⊙O中,点A，B，C在⊙O上,∠AOB=80°，D是CO中点，BD⊥OC。"
+    },
+    {
+        "id": 64,
+        "type": "圆",
+        "subject": "AB是⊙O的直径,点C，D在⊙O上,BA平分∠CBD,∠AOD=50°。"
+    },
+    {
+        "id": 65,
+        "type": "圆",
+        "subject": "BC是⊙O的直径,点A，D在⊙O上,AD平分∠BAC。"
+    },
+    {
+        "id": 66,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，点C，D在⊙O上，连接AD、BC、BD。∠BCD=20°，∠ABD=70°。"
+    },
+    {
+        "id": 67,
+        "type": "圆",
+        "subject": "⊙O中，点A，B，C在⊙O上，连接OA、OB。∠ACB=40°，∠OAB=50°。"
+    },
+    {
+        "id": 68,
+        "type": "圆",
+        "subject": "⊙O中，点A，B，C在⊙O上，OA平行于BC，∠ACB=25°，∠CAB=40°。"
+    },
+    {
+        "id": 69,
+        "type": "圆",
+        "subject": "⊙O中，点A，B，C在⊙O上，AO=AB，BA=BC,CB=CO。"
+    },
+    {
+        "id": 70,
+        "type": "圆",
+        "subject": "⊙O中，点A，B，C，D在⊙O上，OC⊥AB交⊙O于点C，连接BD，CD。∠CDB=28°，∠OAB=34°"
+    },
+    {
+        "id": 71,
+        "type": "圆",
+        "subject": "⊙O中，点A，B，C，D在⊙O上，∠DAB=50°,∠BCD=130°"
+    },
+    {
+        "id": 72,
+        "type": "圆",
+        "subject": "AB是⊙O的直径，点C在⊙O上，∠CAB=50°"
+    },
+    {
+        "id": 73,
+        "type": "圆",
+        "subject": "⊙O中，点A，B，C，D在⊙O上，∠AOC=128°,∠ABC=64°,∠CDA=116°"
+    },
+    {
+        "id": 74,
+        "type": "圆",
+        "subject": "⊙O中，点A，B，C在⊙O上，OC⊥AB,∠ABC=30°"
+    }
+]

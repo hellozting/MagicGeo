@@ -1,0 +1,12 @@
+json
+re
+openai
+time
+tkinter
+pdf2image
+PIL
+matplotlib
+matplotlib.pyplot
+matplotlib.backends.backend_pgf
+math
+os

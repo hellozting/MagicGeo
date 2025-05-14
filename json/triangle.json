@@ -1,0 +1,352 @@
+[
+    {
+        "id": 0,
+        "type": "三角形",
+        "subject": "△ABC中，M在BC上，D在BC上,E点在AC上,点M是BC中点,AB=AC,DM=DE,∠ABC=∠ACB，∠MDE=2∠ABC"
+    },
+    {
+        "id": 1,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上，∠ADB=30°，∠BAC=90°。"
+    },
+    {
+        "id": 2,
+        "type": "三角形",
+        "subject": "在△ABC中，点D、E分别是AB、AC的中点。"
+    },
+    {
+        "id": 3,
+        "type": "三角形",
+        "subject": "△ABC中，D在BC上，∠ACB=90°，∠BAC=60°，∠BAD=15°，连接AD。"
+    },
+    {
+        "id": 4,
+        "type": "三角形",
+        "subject": "△ABC中，∠ACB=90°,点D为BC中点,CE// AB,点E在AD的延长线，AC=0.4，CE=0.5。"
+    },
+    {
+        "id": 5,
+        "type": "三角形",
+        "subject": "在△ABC中，点G在BC上，点D在AB上，F点在AB上，E点在AC上，∠ABC=60°,∠BAC=65°,DE//BC,FG//AC"
+    },
+    {
+        "id": 6,
+        "type": "三角形",
+        "subject": "已知锐角△ABC，∠ABC=48°，点P在△ABC内部，PB=PC，∠PBC=24°。"
+    },
+    {
+        "id": 7,
+        "type": "三角形",
+        "subject": "△ABC中，E在BC上，∠ABC=50°，∠ACB=20°，F点在AC上，DE⊥BC，点A在DE上,AD=AC，AF=AB，连接DF。"
+    },
+    {
+        "id": 8,
+        "type": "三角形",
+        "subject": "△ABC中，CD平分∠ACB，D在AB上，AE⊥CD，E在DC上，EF//BC，F在AC上，点G是BC中点，FG=0.5AB，连接FG。"
+    },
+    {
+        "id": 9,
+        "type": "三角形",
+        "subject": "在△ABC中，D点在AB上，E点在AC上，AB=AC，CD⊥AB，BE⊥AC。"
+    },
+    {
+        "id": 10,
+        "type": "三角形",
+        "subject": "△ABC中，点E在BC上，点D在AC上，AD=AB，AE是BAC的角平分线。"
+    },
+    {
+        "id": 11,
+        "type": "三角形",
+        "subject": "△ABC中，AB//CD，∠BAC=40°，E点在AC延长线上，D在△ABC外面，∠EDC=24°。"
+    },
+    {
+        "id": 12,
+        "type": "三角形",
+        "subject": "△ABC中，点M、N分别是AC、BC的中点，MN=0.5，AB=1"
+    },
+    {
+        "id": 13,
+        "type": "三角形",
+        "subject": "△ABC中，D点在BC延长线上，AB=AC,∠BAC=40°，∠ACD=110°"
+    },
+    {
+        "id": 14,
+        "type": "三角形",
+        "subject": "锐角三角形ABC中，AB=AC，点D，E分别在边AB，AC上,连接BE，CD，BD=CE，∠DCB=∠EBC"
+    },
+    {
+        "id": 15,
+        "type": "三角形",
+        "subject": "△ABO中，点C、D分别是OA、OB的中点，CD=0.5，AB=1"
+    },
+    {
+        "id": 16,
+        "type": "三角形",
+        "subject": "△ABC中,AB=AC，D点在BC上，AD=BD，∠CAD=24°"
+    },
+    {
+        "id": 17,
+        "type": "三角形",
+        "subject": "△ABC中，D在BC上，ED是AC的垂直平分线，交AC于点E，∠ABC=∠ADB，AB=1。"
+    },
+    {
+        "id": 18,
+        "type": "三角形",
+        "subject": "△ABC中，∠ACB=90°，AC=0.8，BC=0.6，点D在AC上，BD是∠ABC 的角平分线,连接BD"
+    },
+    {
+        "id": 19,
+        "type": "三角形",
+        "subject": "△ABC中，点F在BC的延长线上，DE// BC，∠ABC=28°，∠ACB=62°，点D在AB上,E在AC上。"
+    },
+    {
+        "id": 20,
+        "type": "三角形",
+        "subject": "△ABC中,∠ACB=90°，点D、E分别是AB、AC的中点，AC=0.8,CD=0.5，DE=0.3"
+    },
+    {
+        "id": 21,
+        "type": "三角形",
+        "subject": "△ABC中，AB=AC,点D是BC中点，点E在AB上,点F在AC上，AE=AF，∠BAC=80°,连接DE,DF。"
+    },
+    {
+        "id": 22,
+        "type": "三角形",
+        "subject": "在△ABC中，∠ABC=90°,∠BAC=30°,BC=0.5,点D是AB中点.点E在边AC上, AE=0.5"
+    },
+    {
+        "id": 23,
+        "type": "三角形",
+        "subject": "△ABC中，BC=0.6，D点在BC上,DE=DF，AB=1，∠ACB=90°，点F在AC上，点E在AB上，AE=AF。"
+    },
+    {
+        "id": 24,
+        "type": "三角形",
+        "subject": "△ABC，∠BAC=120°，AB=1,∠ABC=∠ACB."
+    },
+    {
+        "id": 25,
+        "type": "三角形",
+        "subject": "△ABC为等边三角形，点D在BC上，点E在AB上，BD=4DC，AE=5.25BE。"
+    },
+    {
+        "id": 26,
+        "type": "三角形",
+        "subject": "在△ABC中，∠ABC=90°，AB=0.6，BC=0.8，点D在边AC上，AD=0.6"
+    },
+    {
+        "id": 27,
+        "type": "三角形",
+        "subject": "△ABC中，点E在BC上，点D在AB上，BD=BE，BD=0.4，∠BDE=65°，∠ABC=50°，连接DE。"
+    },
+    {
+        "id": 28,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上，E在BC上，AD=AC，点E是DC中点"
+    },
+    {
+        "id": 29,
+        "type": "三角形",
+        "subject": "△ABC中，D点在AC上，E点在CB上，G点在AB上，CG是∠ACB的角平分线，F在CG上。"
+    },
+    {
+        "id": 30,
+        "type": "三角形",
+        "subject": "△ABC中，AC=0.8，CD=0.5，DE=0.3，∠ACB=90°，点D、E分别是AB、AC的中点"
+    },
+    {
+        "id": 31,
+        "type": "三角形",
+        "subject": "在△ABC中,∠ACB=90°，AC=0.6，BC=0.8，点D是AB中点，CD=0.5"
+    },
+    {
+        "id": 32,
+        "type": "三角形",
+        "subject": "在Rt△ABC 中，∠BAC=90°，AD 是斜边BC上的高，D点在BC上"
+    },
+    {
+        "id": 33,
+        "type": "三角形",
+        "subject": "等边△ABC中，点D是AC中点，E在BC延长线上，CD=CE，连接DE"
+    },
+    {
+        "id": 34,
+        "type": "三角形",
+        "subject": "△ABC是等边三角形,点D，E在边BC上,∠DAE=30°"
+    },
+    {
+        "id": 35,
+        "type": "三角形",
+        "subject": "△ABC中，∠ACB=90°,AC=BC，F在BC上,D在AB上，E在AC上,∠EDF=90°"
+    },
+    {
+        "id": 36,
+        "type": "三角形",
+        "subject": "在等边△ABC中，AD⊥BC于点D，D在BC上，E为线段AD上一点(不与A,D重合)，连接BE，CE，F为△ABC外一点，CE=CF，∠ECF=60°."
+    },
+    {
+        "id": 37,
+        "type": "三角形",
+        "subject": "在△ABC中，AB=AC，点M、N分别是AB、BC的中点，连接MN."
+    },
+    {
+        "id": 38,
+        "type": "三角形",
+        "subject": "△ABC中,BC=0.6，BM=0.15,点M在CB的延长线上，点F在DB上，点F在ME上,点D、E分别是AB、AC的中点，DF =2BF，连接EF。"
+    },
+    {
+        "id": 39,
+        "type": "三角形",
+        "subject": "△ABC中，AB=AC，∠CAB=30°，点M是AB中点，连接NB，N点在AC上，AN=NB。"
+    },
+    {
+        "id": 40,
+        "type": "三角形",
+        "subject": "在Rt△ABC中，∠ACB=90°，DO是线段BC的垂直平分线，交AB于点D，交BC于点O。O在BC上。"
+    },
+    {
+        "id": 41,
+        "type": "三角形",
+        "subject": "△ABC中，点D、E分别是AB、AC的中点，点F在DE的延长线上，EF=DE，连接CF."
+    },
+    {
+        "id": 42,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上，∠ABC=30°，AD是BC上的高"
+    },
+    {
+        "id": 43,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上，AD是BC的高，BC=1.2，AB=1.4，AC=1，CD=0.2"
+    },
+    {
+        "id": 44,
+        "type": "三角形",
+        "subject": "△ABC中，D点在BC上，M在AC上，N在AB上，∠ACB=90°，AM=AN，AD是∠CAB的角平分线。"
+    },
+    {
+        "id": 45,
+        "type": "三角形",
+        "subject": "△ABC中，∠ACB=90°,点O是AB中点"
+    },
+    {
+        "id": 46,
+        "type": "三角形",
+        "subject": "△ABC中，∠ACB=90°,点O为AB中点，PQ是AB的垂直平分线，交AB于点O，O点在PQ上"
+    },
+    {
+        "id": 47,
+        "type": "三角形",
+        "subject": "△ABD中,点M、N分别是BD、AD的中点AB=0.5,AD=1,∠DNM=90°。"
+    },
+    {
+        "id": 48,
+        "type": "三角形",
+        "subject": "△ABC中，F是BC的中点，∠BAC=90°，AB=AC,D是AB中点，E是AC中点，G是DE中点，H是BF的中点"
+    },
+    {
+        "id": 49,
+        "type": "三角形",
+        "subject": "△ABC中，∠BAC=90°，∠ADC=45°，D是AB上的一点，∠ABC=30°。"
+    },
+    {
+        "id": 50,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上,∠ABC=53°，∠ADC=65°，∠ACB=90°。"
+    },
+    {
+        "id": 51,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上,∠ABC=45°，∠ADC=60°，∠ACB=90°。"
+    },
+    {
+        "id": 52,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上,AB=AC，∠ABC=45°，∠ADB=90°。"
+    },
+    {
+        "id": 53,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上,∠BAD=37°，∠CAD=45°，∠ADB=90°。"
+    },
+    {
+        "id": 54,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上,∠BAD=30°，∠CAD=37°，∠ADB=90°。"
+    },
+    {
+        "id": 55,
+        "type": "三角形",
+        "subject": "在△ABC中，∠BAC=45°，∠BCA=30°。"
+    },
+    {
+        "id": 56,
+        "type": "三角形",
+        "subject": "在△ABC中，D在三角形外一点，∠ABC=103°，∠ACB=30°，∠ADC=90°，∠DCB=90°。"
+    },
+    {
+        "id": 57,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上,∠ADB=36°，∠ACB=30°，∠ABC=90°。"
+    },
+    {
+        "id": 58,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC延长线上,∠BAC=30°，BC=1,E点在AC上，AE=0.5，∠DEC=23°，∠ABC=90°。"
+    },
+    {
+        "id": 59,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上,∠BAC=53°，∠BAD=38°，∠ABC=90°。"
+    },
+    {
+        "id": 60,
+        "type": "三角形",
+        "subject": "在△ABC中，∠ABC=45°，∠BAC=75°。"
+    },
+    {
+        "id": 61,
+        "type": "三角形",
+        "subject": "在△ABC中，∠ABC=37°，∠ACB=83°。"
+    },
+    {
+        "id": 62,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上，∠ABC=40°，∠ACB=72°，∠ADB=90°。"
+    },
+    {
+        "id": 63,
+        "type": "三角形",
+        "subject": "△ABC中，D点在BC上，AB=AC,∠ABC=40°，D是BC中点"
+    },
+    {
+        "id": 64,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上,∠ABC=90°，∠BAC=45°，∠BAD=23°。"
+    },
+    {
+        "id": 65,
+        "type": "三角形",
+        "subject": "在△ABC中，∠ABC=90°，∠ACB=33°。"
+    },
+    {
+        "id": 66,
+        "type": "三角形",
+        "subject": "△ABC中,BC=1.2，AB=0.9，∠ABC=90°"
+    },
+    {
+        "id": 67,
+        "type": "三角形",
+        "subject": "在△ABC中，D在三角形外，∠ABC=60°，∠DCB=90°，∠ADC=120°。"
+    },
+    {
+        "id": 68,
+        "type": "三角形",
+        "subject": "在△ABC中，∠ABC=30°，∠ACB=45°。"
+    },
+    {
+        "id": 69,
+        "type": "三角形",
+        "subject": "在△ABC中，D在BC上，∠ACB=90°，∠ABC=37°，∠ADC=45°。"
+    }
+]

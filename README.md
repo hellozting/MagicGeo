@@ -1,7 +1,5 @@
 # MagiceG*e*o<br><sub><sup>Training-Free Text-Guided Geometric Diagram Generation</sup></sub>
 
-[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
 MagicG*e*o is a training-free framework 
 designed for generating geometric diagrams from textual descriptions. Creating precise diagrams directly from text can be challenging, but MagicGeo simplifies the process by formulating
 diagram generation as a coordinate optimization problem, integrating large language models for text translation and a formal language solver to ensure geometric correctness. 
@@ -21,12 +19,15 @@ MagicGeo’s coordinate-aware generation effectively handles spatial relationshi
 ![Framework of MagiceGeo](image/2.png)
 ## Table of Contents
 
-- [Install](#install)
-- [Usage](#usage)
-- [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [MagiceG*e*oTraining-Free Text-Guided Geometric Diagram Generation](#magicegeotraining-free-text-guided-geometric-diagram-generation)
+  - [Performance](#performance)
+  - [Table of Contents](#table-of-contents)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Datasets](#datasets)
+  - [Citation](#citation)
+  - [Acknowledgments](#acknowledgments)
+  - [Maintainers](#maintainers)
 ## Install
 
 ```

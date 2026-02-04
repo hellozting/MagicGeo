@@ -56,7 +56,7 @@ Go to project directory
 ```
 Startup server
 ```bash
-    python text_to_geometric_tingV4.py
+    python text_to_geometric.py
 ```
 ## Datasets
 * circle: json/circle.json

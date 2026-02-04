@@ -1,0 +1,71 @@
+# =================================================================
+# 几何约束指令 (Geometric Constraint Instructions)
+# =================================================================
+
+dist(O, A, r):
+- 点 A 在以 O 为圆心、r 为半径的圆上：'dist': dist(O, A, r)。
+- 线段 AB 的长度为常数 x：'dist': dist(A, B, x)。
+- 线段 AB 与圆 O 相切于点 B：点 B 在圆上，写作 'dist': dist(O, B, r)（需配合 ortho 使用）。
+- 线段 AB 与圆 O 相切于点 C：点 C 在圆上，写作 'dist': dist(O, C, r)。
+- 弧 BC 的中点 A：点 A 在圆上，写作 'dist': dist(O, A, r)（需配合 arc_midpoint 使用）。
+
+angle(A, B, C, θ):
+- 已知角度数值：若 ∠ABC = 25°，写作 'angle': angle(A, B, C, 25)。
+- 注意：参数顺序必须与角的字母顺序一致，中间字母 B 为顶点。
+
+angle_relation(B, A, C, A, D, B, m):
+- 两角相等 (m=1)：若 ∠BAC = ∠ADB，写作 'angle_relation': angle_relation(B, A, C, A, D, B, 1)。
+- 倍角关系：若 ∠ACB = 2∠BAC，写作 'angle_relation': angle_relation(A, C, B, B, A, C, 2)。
+
+online_inside(B, E, F):
+- 点 B 在线段 EF 上：'online_inside': online_inside(B, E, F)。
+- 三点共线：若 AB 过 C 点，写作 'online_inside': online_inside(C, A, B)。
+- 线段交点：若 AB 与 CD 相交于 P，写作 'online_inside': online_inside(P, A, B) 和 'online_inside': online_inside(P, C, D)。
+- 三角形的高：若 AD 是 BC 的高，点 D 为垂足，需包含 'online_inside': online_inside(D, B, C)（配合 ortho 使用）。
+
+online_extension(B, E, F):
+- 点 B 在线段 EF 的延长线上：'online_extension': online_extension(B, E, F)。
+- 注意：区分延长线的方向，B 是在 F 端还是 E 端引出的延长线上。
+
+ortho(A, B, E, F):
+- 线段垂直：若 AB ⊥ EF，写作 'ortho': ortho(A, B, E, F)。
+- 切线性质：线段 AB 与圆 O 相切于 B，半径 OB ⊥ 切线 AB，写作 'ortho': ortho(O, B, A, B)。
+- 垂直平分线：若 ED 垂直平分 BC 于 D，写作 'ortho': ortho(E, D, B, C)（配合 midpoint 使用）。
+
+midpoint(A, B, C):
+- 线段中点：若 A 是 BC 的中点，写作 'midpoint': midpoint(A, B, C)。
+
+arc_midpoint(A, B, C):
+- 弧的中点：若 A 是弧 BC 的中点，写作 'arc_midpoint': arc_midpoint(A, B, C)。
+- 注意：通常需配合 'dist': dist(O, A, r) 确保点 A 在圆上。
+
+equal_line(A, B, C, D):
+- 线段长度相等：若 AB = CD，写作 'equal_line': equal_line(A, B, C, D)。
+- 实例：若 OA = OC，写作 'equal_line': equal_line(O, A, O, C)。
+
+angle_bisector(A, D, C, A, B):
+- 角平分线：若 AD 平分 ∠CAB，写作 'angle_bisector': angle_bisector(A, D, C, A, B)。
+
+parallel(A, B, C, D):
+- 线段平行：若 AB ∥ CD，写作 'parallel': parallel(A, B, C, D)。
+- 平行四边形：若 ABCD 为平行四边形，需同时满足 'parallel': parallel(A, B, C, D) 和 'parallel': parallel(A, D, B, C)。
+
+line_ratio(D, C, B, D, m):
+- 线段倍数关系：若 BD = 4DC，写作 'line_ratio': line_ratio(D, C, B, D, 4)。表示后两点距离是前两点距离的 m 倍。
+
+is_point_in_triangle(A, B, C, P):
+- 点在三角形内部：若 P 在 △ABC 内，写作 'is_point_in_triangle': is_point_in_triangle(A, B, C, P)。
+
+is_point_out_triangle(A, B, C, P):
+- 点在三角形外部：若 P 在 △ABC 外，写作 'is_point_out_triangle': is_point_out_triangle(A, B, C, P)。
+
+is_acute_triangle(A, B, C):
+- 锐角三角形：若 △ABC 是锐角三角形，写作 'is_acute_triangle': is_acute_triangle(A, B, C)。
+
+# =================================================================
+# 几何坐标初始化原则 (Coordinate Initialization Rules)
+# =================================================================
+1. 圆形初始化：若题目中存在圆，优先设圆心 O 为原点 (0,0)。若 AB 为直径，设 A(r, 0), B(-r, 0)。
+2. 多点在圆上：若多个点在圆上且仅圆心已知，可设其中一点为 (r, 0)，其余点用变量表示。若两点圆心角为 90°，可设为 (r, 0) 和 (0, r)。
+3. 三角形初始化：若仅有三角形且无圆，设其中一个顶点为 (0, 0)，其余点用变量表示。
+4. 变量设定：其余未知点统一使用 (a, b), (m, n) 等变量形式。

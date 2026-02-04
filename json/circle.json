@@ -347,31 +347,6 @@
     {
         "id": 69,
         "type": "圆",
-        "subject": "⊙O中，点A，B，C在⊙O上，AO=AB，BA=BC,CB=CO。"
-    },
-    {
-        "id": 70,
-        "type": "圆",
         "subject": "⊙O中，点A，B，C，D在⊙O上，OC⊥AB交⊙O于点C，连接BD，CD。∠CDB=28°，∠OAB=34°"
-    },
-    {
-        "id": 71,
-        "type": "圆",
-        "subject": "⊙O中，点A，B，C，D在⊙O上，∠DAB=50°,∠BCD=130°"
-    },
-    {
-        "id": 72,
-        "type": "圆",
-        "subject": "AB是⊙O的直径，点C在⊙O上，∠CAB=50°"
-    },
-    {
-        "id": 73,
-        "type": "圆",
-        "subject": "⊙O中，点A，B，C，D在⊙O上，∠AOC=128°,∠ABC=64°,∠CDA=116°"
-    },
-    {
-        "id": 74,
-        "type": "圆",
-        "subject": "⊙O中，点A，B，C在⊙O上，OC⊥AB,∠ABC=30°"
     }
 ]
